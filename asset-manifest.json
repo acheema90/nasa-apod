@@ -1,4 +1,22 @@
 {
-  "main.js": "static/js/main.ac8701ca.js",
-  "main.js.map": "static/js/main.ac8701ca.js.map"
+  "files": {
+    "main.css": "/nasa-apod/static/css/main.3b3af219.chunk.css",
+    "main.js": "/nasa-apod/static/js/main.64c0589c.chunk.js",
+    "main.js.map": "/nasa-apod/static/js/main.64c0589c.chunk.js.map",
+    "runtime-main.js": "/nasa-apod/static/js/runtime-main.0707b0de.js",
+    "runtime-main.js.map": "/nasa-apod/static/js/runtime-main.0707b0de.js.map",
+    "static/js/2.fc98a45d.chunk.js": "/nasa-apod/static/js/2.fc98a45d.chunk.js",
+    "static/js/2.fc98a45d.chunk.js.map": "/nasa-apod/static/js/2.fc98a45d.chunk.js.map",
+    "index.html": "/nasa-apod/index.html",
+    "precache-manifest.8cc32af68468f457ead078c28bc7d5cb.js": "/nasa-apod/precache-manifest.8cc32af68468f457ead078c28bc7d5cb.js",
+    "service-worker.js": "/nasa-apod/service-worker.js",
+    "static/css/main.3b3af219.chunk.css.map": "/nasa-apod/static/css/main.3b3af219.chunk.css.map",
+    "static/js/2.fc98a45d.chunk.js.LICENSE.txt": "/nasa-apod/static/js/2.fc98a45d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0707b0de.js",
+    "static/js/2.fc98a45d.chunk.js",
+    "static/css/main.3b3af219.chunk.css",
+    "static/js/main.64c0589c.chunk.js"
+  ]
 }
