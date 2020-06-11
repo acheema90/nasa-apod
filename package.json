@@ -1,21 +1,31 @@
 {
-  "name": "nasa-apod",
-  "version": "0.1.0",
-  "private": true,
-  "homepage": "http://acheema90.github.io/nasa-apod",
-  "dependencies": {
-    "react": "^15.5.4",
-    "react-dom": "^15.5.4",
-    "styled-components": "^1.4.5",
-    "whatwg-fetch": "^2.0.3"
-  },
-  "devDependencies": {
-    "react-scripts": "0.9.5"
-  },
-  "scripts": {
-    "start": "react-scripts start",
-    "build": "react-scripts build",
-    "test": "react-scripts test --env=jsdom",
-    "eject": "react-scripts eject"
-  }
+	"name": "nasa-apod",
+	"version": "1.0.0",
+	"private": true,
+	"homepage": "http://acheema90.github.io/nasa-apod",
+	"dependencies": {
+		"react": "^16.13.1",
+		"react-dom": "^16.13.1"
+	},
+	"devDependencies": {
+		"react-scripts": "^3.4.1"
+	},
+	"scripts": {
+		"start": "react-scripts start",
+		"build": "react-scripts build",
+		"test": "react-scripts test --env=jsdom",
+		"eject": "react-scripts eject"
+	},
+	"browserslist": {
+		"production": [
+			">0.2%",
+			"not dead",
+			"not op_mini all"
+		],
+		"development": [
+			"last 1 chrome version",
+			"last 1 firefox version",
+			"last 1 safari version"
+		]
+	}
 }
