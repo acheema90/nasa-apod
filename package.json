@@ -2,7 +2,7 @@
 	"name": "nasa-apod",
 	"version": "1.0.0",
 	"private": true,
-	"homepage": "http://acheema90.github.io/nasa-apod",
+	"homepage": "",
 	"dependencies": {
 		"react": "^16.13.1",
 		"react-dom": "^16.13.1"
